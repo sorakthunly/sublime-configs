@@ -1,0 +1,36 @@
+{
+  "auto_complete_commit_on_tab": true,
+  "auto_complete_delay": 50,
+  "auto_complete_triggers":
+  [
+    {
+      "characters": "<",
+      "selector": "text.html"
+    },
+    {
+      "characters": " ",
+      "selector": "text.html meta.tag"
+    }
+  ],
+  "bold_folder_labels": true,
+  "color_scheme": "Packages/User/Color Highlighter/themes/Agila Oceanic Next.tmTheme",
+  "disable_tab_abbreviations_for_scopes": "source.css",
+  "font_face": "Operator Mono",
+  "font_size": 17,
+  "ignored_packages":
+  [
+    "CSS",
+    "SublimeLinter",
+    "Vintage"
+  ],
+  "line_padding_bottom": 6,
+  "line_padding_top": 6,
+  "show_css_completions": false,
+  "tab_size": 2,
+  "terminal": "iTerm2-v3.sh",
+  "theme": "Agila.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "typescript_tsdk": "/usr/local/lib/node_modules/typescript/lib",
+  "update_check": false,
+  "word_wrap": true
+}
